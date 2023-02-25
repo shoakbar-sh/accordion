@@ -1,0 +1,9 @@
+.panel{
+   width: 100vh;
+}
+
+.panel-tab{
+   height: 1px;
+   overflow-y: hidden;
+   transition: all 0.4s ease-in-out;
+}
